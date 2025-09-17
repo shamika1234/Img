@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Editor",
+  "description": "A powerful AI-powered photo editor that allows you to edit images using simple text prompts. Upload your photo, describe the changes you want, and let the AI bring your vision to life.",
+  "requestFramePermissions": []
+}
